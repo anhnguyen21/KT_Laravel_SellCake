@@ -1,0 +1,17 @@
+.cart-item-amount {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+.single-item img {
+    height: 300px;
+}
+
+.single-item {
+    box-sizing: 2px 4px 8px #000;
+}
+
+.cart-item img {
+    height: 100px;
+}
